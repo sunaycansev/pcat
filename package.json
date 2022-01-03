@@ -1,0 +1,19 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "simple express.js app for learning node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunaycansev/pcat.git"
+  },
+  "author": "Sunay Cansev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunaycansev/pcat/issues"
+  },
+  "homepage": "https://github.com/sunaycansev/pcat#readme"
+}
